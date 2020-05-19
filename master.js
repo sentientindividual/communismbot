@@ -1632,4 +1632,4 @@ Nas k torzhestvu kommunizma vedot!
     }
 });
 
-client.login(process.env.Njk5Njc2ODkwODQzMDU0MTIw.XsQYTA.Qgl6IaS7IejkVYhF9O4iuWpxYg0);
+client.login(process.env.uq0cRKY93PJXVBQ-jli8aDPR64p0DE6e);
