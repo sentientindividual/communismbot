@@ -1,9 +1,10 @@
+require('dotenv').config();
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require("./config.json");
 const presence = require("./activities.json");
 var fs = require('fs');
-const prefix = config.prefix;
+const prefix = process.env.PREFIX;
 const save = require("./saves.json");
 const saveusers = require("./saves-user.json");
 
@@ -1632,4 +1633,4 @@ Nas k torzhestvu kommunizma vedot!
     }
 });
 
-client.login(process.env.uq0cRKY93PJXVBQ-jli8aDPR64p0DE6e);
+client.login();
