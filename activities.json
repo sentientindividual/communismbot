@@ -1,0 +1,21 @@
+{
+    "activities":[
+        {
+            "type":"PLAYING",
+            "desc":"with vodka and nukes"
+        },
+        {
+            "type":"WATCHING",
+            "desc":"Dirty Capitalists"
+        },
+        {
+            "type":"LISTENING",
+            "desc":"Soviet Anthem"
+        },
+        {
+            "type":"STREAMING",
+            "desc":"glorious propaganda",
+            "url":"https://www.twitch.tv/glorious_propaganda"
+        }
+    ]
+}
